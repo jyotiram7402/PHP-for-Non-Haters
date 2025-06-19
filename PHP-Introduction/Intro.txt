@@ -1,0 +1,42 @@
+Introduction to PHP
+PHP (Hypertext Preprocessor) is a widely-used open-source scripting language designed for web development. It runs on the server side and is used to create dynamic web pages and applications.
+
+Key Features of PHP:
+Server-side scripting: PHP code executes on the server before sending the output to the browser.
+Embedded in HTML: PHP can be integrated directly within HTML files.
+Cross-platform: Runs on various operating systems like Windows, macOS, and Linux.
+Supports databases: Works with MySQL, PostgreSQL, SQLite, and more.
+Open-source and free: PHP is free to use with a large developer community.
+
+Basic PHP Syntax:
+
+A PHP file has a .php extension.
+PHP code is written inside <?php ... ?> tags.
+Statements end with a semicolon (;).
+
+Example: Hello World in PHP
+
+<?php
+echo "Hello, World!";
+?>
+
+This code prints Hello, World! on the web page.
+
+
+PHP Application Areas
+
+1. PHP is a server-side scripting language that is embedded in HTML. It is used to
+manage dynamic content, databases, session tracking, even build entire ecommerce sites. Although it is especially suited to web development, you can also
+build desktop standalone applications as PHP also has a command-line interface.
+You can use PHP-GTK extension to build GUI applications in PHP.
+
+2.PHP is widely used for building web applications, but you are no
+t limited to output
+only HTML. PHP's ouput abilities include rich file types, such as images or PDF
+files, encrypting data, and sending emails. You can also output easily any text,
+such as JSON or XML.
+
+3.PHP is a cross-platform language, capable of running on all major operating
+system platforms and with most of the web server programs such as Apache, IIS,
+lighttpd and nginx. PHP also supports other services using protocols such as
+LDAP, IMAP, SNMP, NNTP, POP3, HTTP, COM, etc.
