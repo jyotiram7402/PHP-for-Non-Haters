@@ -1,3 +1,4 @@
+<?php
 // PHP Syntax Explanation
 
 // PHP scripts start with <?php and end with ?>
@@ -24,3 +25,5 @@ echo "Hello, World!";
     ?>
 </body>
 </html>
+
+?>
