@@ -6,4 +6,5 @@ $num=123;
 
 echo "$name";
 echo "customer name is-".$customer_name;
+var_dump($customer_name);
 ?>
